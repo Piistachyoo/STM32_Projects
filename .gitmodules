@@ -1,0 +1,3 @@
+[submodule "STM32F103C8_Drivers"]
+	path = STM32F103C8_Drivers
+	url = git@github.com:Piistachyoo/STM32F103C8_Drivers.git
